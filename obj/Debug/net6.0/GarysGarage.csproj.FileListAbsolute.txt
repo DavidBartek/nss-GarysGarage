@@ -1,0 +1,15 @@
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\GarysGarage.exe
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\GarysGarage.deps.json
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\GarysGarage.runtimeconfig.json
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\GarysGarage.dll
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\ref\GarysGarage.dll
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\bin\Debug\net6.0\GarysGarage.pdb
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.csproj.AssemblyReference.cache
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.AssemblyInfoInputs.cache
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.AssemblyInfo.cs
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.csproj.CoreCompileInputs.cache
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.dll
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\ref\GarysGarage.dll
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.pdb
+C:\Users\david\nss-workspace\csharp\03 SQL EFCore\GarysGarage\obj\Debug\net6.0\GarysGarage.genruntimeconfig.cache
