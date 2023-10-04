@@ -12,12 +12,14 @@ namespace Garage;
 //     }
 // }
 
-public class Ram : Vehicle
+public class Ram : Vehicle, IGasVehicle
 {
     public double FuelCapacity {get; set;}
+
+    public int CurrentFuelPercentage {get; set;} = 0;
     public void RefuelTank()
     {
-
+        CurrentFuelPercentage = 5;
     }
     public override void Drive()
     {

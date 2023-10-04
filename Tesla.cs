@@ -14,13 +14,15 @@ namespace Garage;
 // }
 
 // post-inheritance: 
-public class Tesla : Vehicle
+public class Tesla : Vehicle, IElectricVehicle
 {
     public double BatteryKwh { get; set; }
 
+    public int CurrentChargePercentage { get; set; } = 50;
+
     public void ChargeBattery()
     {
-        // method definition omitted
+        CurrentChargePercentage = 100;
     }
     public override void Drive ()
     {

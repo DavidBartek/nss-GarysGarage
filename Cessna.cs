@@ -15,13 +15,15 @@ namespace Garage;
 
 // post-inheritance from Vehicle
 
-public class Cessna : Vehicle
+public class Cessna : Vehicle, IGasVehicle
 {
     public double FuelCapacity { get; set; }
 
+    public int CurrentFuelPercentage {get; set;} = 20;
+
     public void RefuelTank()
     {
-        // method definition omitted
+        CurrentFuelPercentage = 100;
     }
 
     public override void Drive()

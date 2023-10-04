@@ -11,12 +11,13 @@ namespace Garage;
 //     }
 // }
 
-public class Zero : Vehicle
+public class Zero : Vehicle, IElectricVehicle
 {
     public double BatteryKwh {get; set;}
+    public int CurrentChargePercentage { get; set; } = 25;
     public void ChargeBattery()
     {
-        //
+        CurrentChargePercentage = 100;
     }
     public override void Drive()
     {
